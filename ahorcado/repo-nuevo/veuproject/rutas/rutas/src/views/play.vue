@@ -309,7 +309,7 @@ function detenerTimer() {
 
 <style scoped>
 .juego-container {
-background-image: url("./imag/fondo.png");
+background-image: url("./imgfondo.png");
 background-size: contain;
 background-position: center;
   min-height: 100vh;
@@ -592,4 +592,5 @@ margin-top: -100px;
     padding: 10px 20px;
   }
 }
+
 </style>
